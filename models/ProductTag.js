@@ -28,15 +28,8 @@ ProductTag.init(
         key: 'id',
       },
     },
-    category_id: {
-      type: DataTypes.INTEGER,
-      allowNull: false,
-      references: {
-        model: 'category', // References the Category model
-        key: 'id',
-      },
+  
     },
-  },
   {
     sequelize,
     timestamps: false,
