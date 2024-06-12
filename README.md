@@ -49,7 +49,7 @@ DELETE /api/tags/{id}: Delete a tag by ID.
 
 ## Links
 Github URL: https://github.com/yvonneewa/ORM-Challenge
-video links: https://icecreamapps.com/v/9u3me3b
+video links: https://app.screencastify.com/v3/watch/EPuasD2S821kz0h27OT8
 
 ## License 
 This project is licensed under the MIT License. See the LICENSE file for details
